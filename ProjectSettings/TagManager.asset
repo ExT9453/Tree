@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - shoot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundN4
+    uniqueID: 4277892657
+    locked: 0
+  - name: BackgroundN3
+    uniqueID: 884455447
+    locked: 0
+  - name: BackgroundN2
+    uniqueID: 3220084847
+    locked: 0
+  - name: BackgroundN1
+    uniqueID: 3950698289
+    locked: 0
+  - name: Obje
+    uniqueID: 2181144885
+    locked: 0
